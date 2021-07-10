@@ -1,0 +1,16 @@
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.exe
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.deps.json
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.runtimeconfig.json
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.runtimeconfig.dev.json
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.dll
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\ref\dotnet prgms.dll
+C:\Users\alexi\Documents\dotnet prgms\bin\Debug\net5.0\dotnet prgms.pdb
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.AssemblyInfo.cs
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.dll
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\ref\dotnet prgms.dll
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.pdb
+C:\Users\alexi\Documents\dotnet prgms\obj\Debug\net5.0\dotnet prgms.genruntimeconfig.cache
