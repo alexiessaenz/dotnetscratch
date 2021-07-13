@@ -49,6 +49,18 @@ namespace dotnet_prgms  //nombre del proyecto
                         break;
                 }
             }
+
+            //Parseo o parsing 
+            int edad = 0;
+
+            //convertir un string a entero
+            Console.WriteLine("Cual es su edad?");
+            edad = Int32.Parse(Console.ReadLine());
+
+            char a = char.Parse(Console.ReadLine());
+            char e = Console.ReadLine()[0];
+
+            double dd = double.Parse(Console.ReadLine());
             
         }
     }
