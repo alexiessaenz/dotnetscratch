@@ -63,5 +63,15 @@ namespace dotnet_prgms  //nombre del proyecto
             double dd = double.Parse(Console.ReadLine());
             
         }
+    
+        static int AddNumbers(int a, int b)
+        {
+            return a+b;
+        }
+
+        static string ConvertToUpperCase(string word)
+        {
+            return word.ToUpper();
+        }
     }
 }
