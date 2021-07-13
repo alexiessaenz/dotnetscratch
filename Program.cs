@@ -29,6 +29,26 @@ namespace dotnet_prgms  //nombre del proyecto
 
             Console.Write("Hello World!"); //impresion sin salto de lineas
             Console.WriteLine("Hello World!"); //impresion con salto de linea
+
+            var name = "moises";
+            name = name.ToLower();
+
+            for (int i = 0; i < name.Length; i++)
+            {
+                switch (name[i])
+                {
+                    case 'a':
+                    case 'e':
+                    case 'i':
+                    case 'o':
+                    case 'u':
+                        Console.WriteLine($"El caracter {name[i]} es vocal");
+                        break;
+                    default:
+                        Console.WriteLine($"El caracter {name[i]} no es vocal");
+                        break;
+                }
+            }
             
         }
     }
