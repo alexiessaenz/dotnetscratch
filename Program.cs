@@ -22,10 +22,10 @@ namespace dotnet_prgms  //nombre del proyecto
             //Random num generator
             var randNumber = new Random().Next(1,10); 
             if (randNumber % 2 == 0)
-                Console.WriteLine("El numero es par")
+                Console.WriteLine("El numero es par");
             else
-                Console.WriteLine("El numero es par")
-            
+                Console.WriteLine("El numero es par");
+
 
             Console.Write("Hello World!"); //impresion sin salto de lineas
             Console.WriteLine("Hello World!"); //impresion con salto de linea
