@@ -6,6 +6,7 @@ namespace dotnet_prgms  //nombre del proyecto
     {
         static void Main(string[] args) //metodos
         {
+            var moises = new Person("moises", "senz", "dev","salvadorian",21, 'm');
             int num=20;  //variables explicitas, se le declaran el tipo
             char letter = 'a';
             string str = "salu2 banda";
